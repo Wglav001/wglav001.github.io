@@ -7,5 +7,8 @@ I am a Computer Science graduate student at Old Dominion University and a Softwa
 
 Outside of work, I am an avid marathon runner currently training for 2 upcoming races in the Spring, and I enjoy traveling and exploring machine learning applications in areas like baseball analytics.
 
+(Chiang Mai Marathon.jpg)
+# Chiang Mai Marathon Dec 2025
+
 # Resume
 [Download Resume](resume.pdf)
